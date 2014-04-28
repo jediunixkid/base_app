@@ -1,3 +1,1 @@
-# Ruby on Rails Tutorial
-[*Rubyon Rails Tutorial](http://railstutorial.org/)
-for *Fun *!
+# Ruby on Rails Base App
